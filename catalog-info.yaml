@@ -5,7 +5,7 @@ metadata:
     description: A Python Library
     annotations:
         backstage.io/techdocs-ref: dir:.
-        github.com/project-slug: sureshrangagit/backstage_idp
+        github.com/project-slug: sureshrangagit/githubaction-demo
     tags:
         - python
     links:
